@@ -167,20 +167,32 @@ Total targets: 158
 | 157 | [stabloshi/awesome-402](https://github.com/stabloshi/awesome-402) | 1 | 2025-10-30 | no | CC0-1.0 | A curated list of awesome resources, libraries, tools and more implementing HTTP 402. |
 | 158 | [sudzikcoin/awesome-x402](https://github.com/sudzikcoin/awesome-x402) | 1 | 2026-05-31 | no | - | A curated list of x402 micropayment facilitators, SDKs, tools, and resources |
 
-## Status of already-opened PRs
+## Opened PRs (browser-agent, 4 URLs each)
 
-| Repo | PR | Endpoints advertised |
-|---|---|---|
-| xpaysh/awesome-x402 | https://github.com/xpaysh/awesome-x402/pull/1863 | browser-agent (4) |
-| Recall-Kitchen/awesome-x402-mcp-services | https://github.com/Recall-Kitchen/awesome-x402-mcp-services/pull/103 | browser-agent (4) |
-| bitrefill/awesome-agentic-payments | https://github.com/bitrefill/awesome-agentic-payments/pull/55 | browser-agent (4) |
-| steven2358/awesome-blockchain-ai | https://github.com/steven2358/awesome-blockchain-ai/pull/87 | browser-agent (4) |
-| ai-boost/awesome-a2a | https://github.com/ai-boost/awesome-a2a/pull/208 | browser-agent (4) |
-| Corican/nanodir | https://github.com/Corican/nanodir/pull/7 | browser-agent (4) |
-| mbeato/awesome-mpp | https://github.com/mbeato/awesome-mpp/pull/46 | browser-agent (4) |
-| TensorBlock/awesome-mcp-servers | https://github.com/TensorBlock/awesome-mcp-servers/pull/3932 | browser-agent (4) |
-| YuzeHao2023/Awesome-MCP-Servers | https://github.com/YuzeHao2023/Awesome-MCP-Servers/pull/654 | browser-agent (4) |
-| demcp/awesome-web3-mcp-servers | https://github.com/demcp/awesome-web3-mcp-servers/pull/138 | browser-agent (4) |
+| # | Repo | PR |
+|---|------|---|
+| 1 | xpaysh/awesome-x402 | https://github.com/xpaysh/awesome-x402/pull/1863 |
+| 2 | Recall-Kitchen/awesome-x402-mcp-services | https://github.com/Recall-Kitchen/awesome-x402-mcp-services/pull/103 |
+| 3 | bitrefill/awesome-agentic-payments | https://github.com/bitrefill/awesome-agentic-payments/pull/55 |
+| 4 | steven2358/awesome-blockchain-ai | https://github.com/steven2358/awesome-blockchain-ai/pull/87 |
+| 5 | ai-boost/awesome-a2a | https://github.com/ai-boost/awesome-a2a/pull/208 |
+| 6 | Corican/nanodir | https://github.com/Corican/nanodir/pull/7 |
+| 7 | mbeato/awesome-mpp | https://github.com/mbeato/awesome-mpp/pull/46 |
+| 8 | TensorBlock/awesome-mcp-servers | https://github.com/TensorBlock/awesome-mcp-servers/pull/3932 |
+| 9 | YuzeHao2023/Awesome-MCP-Servers | https://github.com/YuzeHao2023/Awesome-MCP-Servers/pull/654 |
+| 10 | demcp/awesome-web3-mcp-servers | https://github.com/demcp/awesome-web3-mcp-servers/pull/138 |
+| 11 | stabloshi/awesome-402 | https://github.com/stabloshi/awesome-402/pull/12 |
+| 12 | fffilimonov/awesome-x402-servers | https://github.com/fffilimonov/awesome-x402-servers/pull/81 |
+| 13 | Rail402/awesome-rail402 | https://github.com/Rail402/awesome-rail402/pull/9 |
+| 14 | EijiAC24/awesome-agent-economy | https://github.com/EijiAC24/awesome-agent-economy/pull/18 |
+| 15 | insodimension/awesome-agent-protocols | https://github.com/insodimension/awesome-agent-protocols/pull/27 |
+| 16 | mcpHQ/awesome-mcp-servers | https://github.com/mcpHQ/awesome-mcp-servers/pull/283 |
+| 17 | kyrolabs/awesome-agents | https://github.com/kyrolabs/awesome-agents/pull/851 |
+| 18 | tsubasakong/awesome-agent-payments-protocol | https://github.com/tsubasakong/awesome-agent-payments-protocol/pull/120 |
+| 19 | ianwieds/awesome-agentic-commerce | https://github.com/ianwieds/awesome-agentic-commerce/pull/1 |
+| 20 | X402blockchains/awesome-x402 | https://github.com/X402blockchains/awesome-x402/pull/5 |
+| 21 | Daehan-Base/awesome-x402-on-base | https://github.com/Daehan-Base/awesome-x402-on-base/pull/40 |
+| 22 | marmelab/awesome-rest | https://github.com/marmelab/awesome-rest/pull/232 |
 
 ## Endpoints advertised
 
