@@ -1,0 +1,1424 @@
+[
+ {
+  "repo": "public-apis/public-apis",
+  "stars": 489374,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A collective list of free APIs"
+ },
+ {
+  "repo": "Shubhamsaboo/awesome-llm-apps",
+  "stars": 142000,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
+ },
+ {
+  "repo": "punkpeye/awesome-mcp-servers",
+  "stars": 96466,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A collection of MCP servers."
+ },
+ {
+  "repo": "modelcontextprotocol/servers",
+  "stars": 91313,
+  "pushed": "2026-10-13",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "Model Context Protocol Servers"
+ },
+ {
+  "repo": "ComposioHQ/awesome-claude-skills",
+  "stars": 77233,
+  "pushed": "2026-09-18",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+ },
+ {
+  "repo": "hesreallyhim/awesome-claude-code",
+  "stars": 55827,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion"
+ },
+ {
+  "repo": "e2b-dev/awesome-ai-agents",
+  "stars": 30464,
+  "pushed": "2026-08-21",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "A list of AI autonomous agents"
+ },
+ {
+  "repo": "sdras/awesome-actions",
+  "stars": 28319,
+  "pushed": "2024-09-01",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A curated list of awesome actions to use on GitHub"
+ },
+ {
+  "repo": "Hannibal046/Awesome-LLM",
+  "stars": 27444,
+  "pushed": "2025-07-31",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "Awesome-LLM: a curated list of Large Language Model"
+ },
+ {
+  "repo": "n0shake/Public-APIs",
+  "stars": 23987,
+  "pushed": "2026-05-03",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "\ud83d\udcda A public list of APIs from round the web."
+ },
+ {
+  "repo": "public-api-lists/public-api-lists",
+  "stars": 16119,
+  "pushed": "2026-09-14",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated list of free public APIs \u2014 searchable, community-maintained, with a free JSON API."
+ },
+ {
+  "repo": "TonnyL/Awesome_APIs",
+  "stars": 13161,
+  "pushed": "2020-02-29",
+  "archived": true,
+  "fork": false,
+  "license": "CC-BY-SA-4.0",
+  "desc": ":octocat: A collection of APIs"
+ },
+ {
+  "repo": "steven2358/awesome-generative-ai",
+  "stars": 12742,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A curated list of modern Generative Artificial Intelligence projects and services"
+ },
+ {
+  "repo": "mcp-use/mcp-use",
+  "stars": 10771,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents."
+ },
+ {
+  "archived": false,
+  "desc": "A collaborative list of public APIs for developers",
+  "fork": false,
+  "license": "MIT",
+  "pushed": "2026-10-16T11:30:57Z",
+  "repo": "MarcelsCruz/public-apis",
+  "stars": 9585
+ },
+ {
+  "repo": "WangRongsheng/awesome-LLM-resources",
+  "stars": 9024,
+  "pushed": "2026-10-07",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "\ud83e\uddd1\u200d\ud83d\ude80 \u5168\u4e16\u754c\u6700\u597d\u7684LLM\u8d44\u6599\u603b\u7ed3\uff08\u591a\u6a21\u6001\u751f\u6210\u3001Agent\u3001\u8f85\u52a9\u7f16\u7a0b\u3001AI\u5ba1\u7a3f\u3001\u6570\u636e\u5904\u7406\u3001\u6a21\u578b\u8bad\u7ec3\u3001\u6a21\u578b\u63a8\u7406\u3001o1 \u6a21\u578b\u3001MCP\u3001\u5c0f\u8bed\u8a00\u6a21\u578b\u3001\u89c6\u89c9\u8bed\u8a00\u6a21\u578b\uff09 | Summary of the world's best LLM resourc"
+ },
+ {
+  "repo": "lorien/awesome-web-scraping",
+  "stars": 8176,
+  "pushed": "2026-09-19",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "List of libraries, tools and APIs for web scraping and data processing."
+ },
+ {
+  "repo": "yzfly/Awesome-MCP-ZH",
+  "stars": 7737,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "MCP \u8d44\u6e90\u7cbe\u9009\uff0c MCP\u6307\u5357\uff0cClaude MCP\uff0cMCP Servers, MCP Clients"
+ },
+ {
+  "repo": "modelcontextprotocol/registry",
+  "stars": 7368,
+  "pushed": "2026-10-14",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "A community driven registry service for Model Context Protocol (MCP) servers."
+ },
+ {
+  "repo": "sobolevn/awesome-cryptography",
+  "stars": 7159,
+  "pushed": "2026-07-15",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "A curated list of cryptography resources and links."
+ },
+ {
+  "repo": "x402-foundation/x402",
+  "stars": 6723,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "A payments protocol for the internet. Built on HTTP."
+ },
+ {
+  "repo": "punkpeye/awesome-mcp-clients",
+  "stars": 6611,
+  "pushed": "2026-06-07",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A collection of MCP clients."
+ },
+ {
+  "repo": "mahseema/awesome-ai-tools",
+  "stars": 6417,
+  "pushed": "2025-12-31",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated list of Artificial Intelligence Top Tools"
+ },
+ {
+  "repo": "appcypher/awesome-mcp-servers",
+  "stars": 5795,
+  "pushed": "2026-05-06",
+  "archived": true,
+  "fork": false,
+  "license": null,
+  "desc": "Awesome MCP Servers - A curated list of Model Context Protocol servers"
+ },
+ {
+  "repo": "APIs-guru/openapi-directory",
+  "stars": 4579,
+  "pushed": "2026-04-20",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "\ud83c\udf10 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
+ },
+ {
+  "repo": "wong2/awesome-mcp-servers",
+  "stars": 4367,
+  "pushed": "2026-07-13",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated list of Model Context Protocol (MCP) servers"
+ },
+ {
+  "repo": "yosriady/awesome-api-devtools",
+  "stars": 4014,
+  "pushed": "2025-12-20",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": ":books: A collection of useful resources for building RESTful HTTP+JSON APIs."
+ },
+ {
+  "repo": "jamesmurdza/awesome-ai-devtools",
+  "stars": 3960,
+  "pushed": "2026-08-27",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "Curated list of AI-powered developer tools."
+ },
+ {
+  "repo": "marmelab/awesome-rest",
+  "stars": 3920,
+  "pushed": "2026-10-05",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A collaborative list of great resources about RESTful API architecture, development, test, and performance"
+ },
+ {
+  "repo": "arainho/awesome-api-security",
+  "stars": 3867,
+  "pushed": "2026-05-01",
+  "archived": true,
+  "fork": false,
+  "license": "GPL-3.0",
+  "desc": "A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit"
+ },
+ {
+  "repo": "openblockchains/awesome-blockchains",
+  "stars": 3784,
+  "pushed": "2023-02-10",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains "
+ },
+ {
+  "repo": "yjjnls/awesome-blockchain",
+  "stars": 3635,
+  "pushed": "2026-10-09",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "\u26a1\ufe0fCurated list of resources for the development and applications of blockchain."
+ },
+ {
+  "repo": "nanocurrency/nano-node",
+  "stars": 3526,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "BSD-3-Clause",
+  "desc": "Nano is digital currency. Its ticker is: XNO and its currency symbol is: \u04fe"
+ },
+ {
+  "repo": "yybmion/public-apis-4Kr",
+  "stars": 3288,
+  "pushed": "2026-10-06",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "\ud55c\uad6d \uc11c\ube44\uc2a4\uc5d0 \uc774\uc6a9 \uac00\ub2a5\ud55c Public API \ubaa8\uc74c | Public APIs Available for Korean Services"
+ },
+ {
+  "repo": "google-agentic-commerce/AP2",
+  "stars": 3231,
+  "pushed": "2026-06-17",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "Building a Secure and Interoperable Future for AI-Driven Payments."
+ },
+ {
+  "repo": "Kikobeats/awesome-api",
+  "stars": 2985,
+  "pushed": "2024-10-12",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A curated list of awesome resources for design and implement RESTful API's."
+ },
+ {
+  "repo": "kyrolabs/awesome-agents",
+  "stars": 2929,
+  "pushed": "2026-10-14",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "\ud83e\udd16 Awesome list of AI Agents"
+ },
+ {
+  "repo": "rust-in-blockchain/awesome-blockchain-rust",
+  "stars": 2826,
+  "pushed": "2026-05-17",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "Collect libraries and packages about blockchain/cryptography in Rust"
+ },
+ {
+  "repo": "cipher387/API-s-for-OSINT",
+  "stars": 2598,
+  "pushed": "2026-08-05",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "List of API's for gathering information about phone numbers, addresses, domains etc"
+ },
+ {
+  "repo": "slavakurilyak/awesome-ai-agents",
+  "stars": 2446,
+  "pushed": "2026-10-04",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Awesome list of 300+ agentic AI resources"
+ },
+ {
+  "repo": "chatmcp/mcpso",
+  "stars": 2107,
+  "pushed": "2025-03-26",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "directory for Awesome MCP Servers"
+ },
+ {
+  "repo": "jim-schwoebel/awesome_ai_agents",
+  "stars": 2010,
+  "pushed": "2026-03-28",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "\ud83e\udd16 A comprehensive list of 1,500+ resources and tools related to AI agents."
+ },
+ {
+  "repo": "caramaschiHG/awesome-ai-agents-2026",
+  "stars": 1944,
+  "pushed": "2026-06-10",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "\ud83e\udd16 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources \u00b7 20+ categories \u00b7 Updated monthl"
+ },
+ {
+  "repo": "solana-foundation/pay",
+  "stars": 1792,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "CLI for Agentic payments (x402, MPP, AP2)."
+ },
+ {
+  "repo": "punkpeye/awesome-remote-mcp-servers",
+  "stars": 1321,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A collection of remote MCP servers."
+ },
+ {
+  "repo": "Free-APIs/Free-APIs.github.io",
+  "stars": 1316,
+  "pushed": "2025-02-08",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "A collection of free APIs for new and experienced developers"
+ },
+ {
+  "repo": "e2b-dev/awesome-ai-sdks",
+  "stars": 1232,
+  "pushed": "2026-07-09",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI age"
+ },
+ {
+  "repo": "steven2358/awesome-blockchain-ai",
+  "stars": 1157,
+  "pushed": "2026-02-06",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A curated list of Blockchain projects for Artificial Intelligence and Machine Learning"
+ },
+ {
+  "repo": "jaw9c/awesome-remote-mcp-servers",
+  "stars": 1147,
+  "pushed": "2026-09-24",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Remote MCP Servers"
+ },
+ {
+  "repo": "stepci/awesome-api-clients",
+  "stars": 1112,
+  "pushed": "2026-10-05",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "List of awesome API clients. Postman and Insomnia alternatives"
+ },
+ {
+  "repo": "YuzeHao2023/Awesome-MCP-Servers",
+  "stars": 1075,
+  "pushed": "2026-08-07",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "A curated list of Model Context Protocol (MCP) servers "
+ },
+ {
+  "repo": "apify/mcpc",
+  "stars": 1042,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "The most compatible MCP CLI client. Supports: tools, resources, prompts, completions, async tasks, skills, stdio and Str"
+ },
+ {
+  "repo": "llf007/public-apis-cn",
+  "stars": 1036,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "\ud83d\udd25 \u5c06 public-apis \u9879\u76ee\u7ffb\u8bd1\u4e3a\u4e2d\u6587\u7248\uff0c\u5e76\u6536\u96c6\u6dfb\u52a0\u56fd\u5185\u5e38\u7528 API\uff0c\u6b22\u8fce\u5927\u5bb6\u70b9\u8d5e \ud83c\udf1f \u548c\u8d21\u732e\u4e00\u884c\u597d\u7528\u7684 API\uff0c\u8ba9\u8fd9\u4e2a\u9879\u76ee\u6210\u4e3a\u4e2d\u6587\u7248\u7684\u514d\u8d39 API \u5927\u5168\u3002"
+ },
+ {
+  "repo": "rohitg00/awesome-devops-mcp-servers",
+  "stars": 1025,
+  "pushed": "2026-05-12",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated list of awesome MCP servers focused on DevOps tools and capabilities."
+ },
+ {
+  "repo": "getsentry/toolkit",
+  "stars": 929,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "Agentic tooling for Sentry"
+ },
+ {
+  "repo": "TensorBlock/awesome-mcp-servers",
+  "stars": 913,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A comprehensive collection of Model Context Protocol (MCP) servers"
+ },
+ {
+  "repo": "MobinX/awesome-mcp-list",
+  "stars": 893,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A concise list for mcp servers"
+ },
+ {
+  "repo": "best-of-ai/ai-directories",
+  "stars": 890,
+  "pushed": "2026-10-12",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "An awesome list of best top AI directories to submit your ai tools"
+ },
+ {
+  "repo": "cline/mcp-marketplace",
+  "stars": 792,
+  "pushed": "2025-06-24",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you\u2019ve built an"
+ },
+ {
+  "repo": "ai-boost/awesome-a2a",
+  "stars": 699,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Agent2Agent (A2A) \u2013 awesome A2A agents, tools, servers & clients, all in one place."
+ },
+ {
+  "repo": "devtoolsd/awesome-devtools",
+  "stars": 686,
+  "pushed": "2025-10-12",
+  "archived": false,
+  "fork": false,
+  "license": "Unlicense",
+  "desc": "A curated list of awesome developer tools and services \u2014 from cloud platforms and IDEs to AI-powered coding assistants a"
+ },
+ {
+  "repo": "furudo-erika/awesome-postman-alternatives",
+  "stars": 618,
+  "pushed": "2026-06-08",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "Awesome API Clients & Postman Alternatives (Open Source, Free, Pro)"
+ },
+ {
+  "repo": "demcp/awesome-web3-mcp-servers",
+  "stars": 614,
+  "pushed": "2025-05-22",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "DeMCP is the first Decentralized MCP network, offering SSE proxies for MCP services and mainstream LLMs, tackling trust "
+ },
+ {
+  "repo": "eudk/awesome-ai-tools",
+  "stars": 599,
+  "pushed": "2026-06-07",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "\ud83d\udd34 VERY LARGE AI TOOL LIST! \ud83d\udd34  Curated list of AI Tools  - Updated 2026"
+ },
+ {
+  "repo": "docker/mcp-registry",
+  "stars": 572,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Official Docker MCP registry "
+ },
+ {
+  "repo": "google-agentic-commerce/a2a-x402",
+  "stars": 564,
+  "pushed": "2026-08-04",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling agents to monetize "
+ },
+ {
+  "repo": "moimikey/awesome-devtools",
+  "stars": 539,
+  "pushed": "2026-07-27",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "\ud83e\udd16 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers."
+ },
+ {
+  "repo": "soxoj/awesome-osint-mcp-servers",
+  "stars": 515,
+  "pushed": "2026-10-10",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "\ud83d\udd0c A curated list of OSINT MCP servers. Pull requests are welcomed!"
+ },
+ {
+  "repo": "punkpeye/awesome-mcp-devtools",
+  "stars": 488,
+  "pushed": "2026-08-04",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server develo"
+ },
+ {
+  "repo": "denisnazarov/awesome-crypto-trackers",
+  "stars": 485,
+  "pushed": "2025-03-25",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A curated list of crypto project trackers and analytics dashboards."
+ },
+ {
+  "repo": "Merit-Systems/x402scan",
+  "stars": 398,
+  "pushed": "2026-10-14",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "x402 Ecosystem Explorer"
+ },
+ {
+  "repo": "haoruilee/awesome-agent-native-services",
+  "stars": 370,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A curated list of agent-native services and infrastructure for AI agents: email, browsers, memory, sandboxes, payments, "
+ },
+ {
+  "repo": "BlockRunAI/awesome-OpenClaw-Money-Maker",
+  "stars": 368,
+  "pushed": "2026-10-11",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "\ud83e\udd9e\ud83d\udcb0 Curated list of ways to make money with OpenClaw - automations, skills, services, and strategies"
+ },
+ {
+  "repo": "VoltAgent/official-mcp-servers",
+  "stars": 354,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated directory of 390+ official MCP servers from the companies behind the products. No unofficial forks, no abandon"
+ },
+ {
+  "repo": "ngongcm/public-api-list",
+  "stars": 332,
+  "pushed": "2026-10-12",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated collection of the best free, freemium, and paid APIs for developers.  "
+ },
+ {
+  "repo": "nirholas/cryptocurrency.cv",
+  "stars": 321,
+  "pushed": "2026-10-12",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Ato"
+ },
+ {
+  "repo": "xpaysh/awesome-x402",
+  "stars": 291,
+  "pushed": "2026-07-28",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "\ud83d\ude80 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypto micropayments, AI a"
+ },
+ {
+  "repo": "x402-rs/x402-rs",
+  "stars": 290,
+  "pushed": "2026-07-13",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "x402 payments in Rust: verify, settle, and monitor payments over HTTP 402 flows"
+ },
+ {
+  "repo": "PipedreamHQ/awesome-mcp-servers",
+  "stars": 286,
+  "pushed": "2025-03-30",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A collection of MCP servers"
+ },
+ {
+  "repo": "Nault/Nault",
+  "stars": 279,
+  "pushed": "2026-09-05",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "\u26a1 The most advanced Nano wallet with focus on security, speed and robustness"
+ },
+ {
+  "repo": "smew-tech/public-apis",
+  "stars": 277,
+  "pushed": "2026-07-27",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A collective list of free APIs for use in software development"
+ },
+ {
+  "repo": "Germey/AwesomeWebScraping",
+  "stars": 265,
+  "pushed": "2026-07-30",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "List of libraries, tools and APIs for web scraping and data processing."
+ },
+ {
+  "repo": "jentic/jentic-public-apis",
+  "stars": 262,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents"
+ },
+ {
+  "repo": "cporter202/openclaw-api-list",
+  "stars": 259,
+  "pushed": "2026-03-01",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!"
+ },
+ {
+  "repo": "iAmCorey/awesome-ai-directory",
+  "stars": 249,
+  "pushed": "2026-02-27",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "AI\u8d44\u6e90\u5de5\u5177\u5bfc\u822a\u7ad9\u6536\u5f55 / Find all the best AI directories"
+ },
+ {
+  "repo": "darjeeling/awesome-mcp-korea",
+  "stars": 248,
+  "pushed": "2026-05-13",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A curated list of MCP servers for the Korean market, including legal, commerce, public data, and local services integrat"
+ },
+ {
+  "repo": "BlockRunAI/awesome-finance-mcp",
+  "stars": 224,
+  "pushed": "2026-09-05",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A curated list of MCP servers for AI finance agents"
+ },
+ {
+  "repo": "MPP32/MPP32",
+  "stars": 221,
+  "pushed": "2026-08-04",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "The universal agent payment layer"
+ },
+ {
+  "repo": "second-state/payment-skill",
+  "stars": 220,
+  "pushed": "2026-02-21",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "Agentic skill for requesting and accepting payments from / to humans and agents"
+ },
+ {
+  "repo": "markodenic/public-apis",
+  "stars": 207,
+  "pushed": "2025-12-08",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A list of free APIs."
+ },
+ {
+  "repo": "Vets-Who-Code/api-list",
+  "stars": 204,
+  "pushed": "2024-12-01",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "List of fun apis that are free for troops to play with while learning javascript"
+ },
+ {
+  "repo": "daydreamsai/lucid-agents",
+  "stars": 200,
+  "pushed": "2026-07-26",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Lucid Agents Commerce SDK. Bootstrap AI agents in 60 seconds that can pay, sell, and participate in agentic commerce sup"
+ },
+ {
+  "repo": "toolsdk-ai/toolsdk-mcp-registry",
+  "stars": 198,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Sup"
+ },
+ {
+  "repo": "mcpHQ/awesome-mcp-servers",
+  "stars": 191,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated catalog of Model Context Protocol (MCP) servers for discovering and integrating AI tools, data sources, and se"
+ },
+ {
+  "repo": "e2b-dev/awesome-mcp-gateways",
+  "stars": 187,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A list of MCP gateways"
+ },
+ {
+  "repo": "cporter202/coreclaw-api-directory",
+  "stars": 179,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commer"
+ },
+ {
+  "repo": "xpack-ai/XPack-MCP-Marketplace",
+  "stars": 173,
+  "pushed": "2026-05-18",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "The world\u2019s first open-source MCP monetization platform, to quickly create and sell your own MCP server in just minutes."
+ },
+ {
+  "repo": "proyecto26/MyAPI",
+  "stars": 163,
+  "pushed": "2026-03-22",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A template to create awesome APIs easily \u26a1\ufe0f"
+ },
+ {
+  "repo": "nanocurrency/nano-docs",
+  "stars": 161,
+  "pushed": "2026-10-01",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "Documentation for the Nano protocol"
+ },
+ {
+  "repo": "qntx/facilitator",
+  "stars": 150,
+  "pushed": "2026-09-15",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "Production-ready x402 facilitator server."
+ },
+ {
+  "repo": "ayush-that/sub-agents.directory",
+  "stars": 149,
+  "pushed": "2026-10-06",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "\ud83d\udc12 Sub-Agents Directory is a curated collection of 100+ sub-agent prompts and MCP servers for Claude Code."
+ },
+ {
+  "repo": "h4ckf0r0day/awesome-ai-web-scraping",
+  "stars": 115,
+  "pushed": "2026-05-18",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the "
+ },
+ {
+  "repo": "kawsarlog/Ultimate-API-List",
+  "stars": 109,
+  "pushed": "2026-07-12",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A massive, auto-updated directory of more than 50,000 public APIs for developers, covering AI, data, authentication, fin"
+ },
+ {
+  "repo": "cporter202/ecommerce-intelligence-apis",
+  "stars": 102,
+  "pushed": "2026-08-26",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated directory of ecommerce intelligence APIs for products, prices, reviews, sellers, and marketplaces."
+ },
+ {
+  "repo": "microchipgnu/MCPay",
+  "stars": 90,
+  "pushed": "2026-01-21",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "Open-source Infrastructure for MCP and x402"
+ },
+ {
+  "repo": "ejboy/awesome-efficient-devtools",
+  "stars": 88,
+  "pushed": "2026-10-14",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "A curated collection of developer tools that reduce compute, context, operational, or workflow overhead. Preference for "
+ },
+ {
+  "repo": "win4r/Awesome-Claude-MCP-Servers",
+  "stars": 88,
+  "pushed": "2024-12-01",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated list of Model Context Protocol (MCP) servers optimized for Claude AI assistants."
+ },
+ {
+  "repo": "AgentlyHQ/aixyz",
+  "stars": 82,
+  "pushed": "2026-07-17",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "Next.js-like framework building AI Agents that are payment-native. Bootstrap your agent with A2A, MCP, x402 payments, an"
+ },
+ {
+  "repo": "xpaysh/awesome-agentic-commerce",
+  "stars": 82,
+  "pushed": "2026-06-24",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "Curated list of active protocols and implementations for agent-to-merchant commerce (ACP, UCP, AP2, x402, MPP, stablecoi"
+ },
+ {
+  "repo": "nirholas/agenti",
+  "stars": 80,
+  "pushed": "2026-10-11",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "Give any AI agent a crypto wallet. Agents deserve access to money.  Pay x402 APIs, receive USDC, check balances \u2014 autono"
+ },
+ {
+  "repo": "submitaitools/Free-AI-Directories",
+  "stars": 78,
+  "pushed": "2026-10-11",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated collection of free AI directories with Domain Authority (DA) scores, direct links, and descriptions. Perfect f"
+ },
+ {
+  "repo": "AIAnytime/Awesome-MCP-Servers",
+  "stars": 72,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated directory of Model Context Protocol (MCP) servers, plus runnable reference implementations in Python."
+ },
+ {
+  "repo": "moshehbenavraham/Ultimate-Agent-Directory",
+  "stars": 70,
+  "pushed": "2026-10-12",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "\ud83e\udd16 The most comprehensive directory of AI agent frameworks, platforms, tools, and resources - hundreds of curated entries"
+ },
+ {
+  "repo": "Dhaiwat10/x402-sovereign",
+  "stars": 62,
+  "pushed": "2025-10-25",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "Self-hosted x402 facilitator."
+ },
+ {
+  "repo": "topaidirectories/awesome-ai-directories",
+  "stars": 59,
+  "pushed": "2025-07-06",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A comprehensive list of AI directories"
+ },
+ {
+  "repo": "BofAI/x402",
+  "stars": 56,
+  "pushed": "2026-09-18",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "x402 payments protocol"
+ },
+ {
+  "repo": "amplitude/mcp-marketplace",
+  "stars": 45,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Amplitude's MCP plugins and their related agents, skills, and commands"
+ },
+ {
+  "repo": "yokomakes/awesome-devtools",
+  "stars": 37,
+  "pushed": "2025-08-06",
+  "archived": false,
+  "fork": false,
+  "license": "Unlicense",
+  "desc": "A curated list of awesome developer tools and services \u2014 from cloud platforms and IDEs to AI-powered coding assistants a"
+ },
+ {
+  "repo": "ozgrozer/top-ai-directories",
+  "stars": 33,
+  "pushed": "2026-06-14",
+  "archived": true,
+  "fork": false,
+  "license": null,
+  "desc": "A comprehensive list of AI directories"
+ },
+ {
+  "repo": "aiagenta2z/mcp-marketplace",
+  "stars": 32,
+  "pushed": "2026-04-10",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "OpenSource MCP Marketplace | MCP Servers Tools Meta Dataset | Web API | Web Client Integration"
+ },
+ {
+  "repo": "yigitkonur/awesome-webmcp",
+  "stars": 31,
+  "pushed": "2026-06-07",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A curated list of WebMCP resources \u2013 the new web standard that lets websites expose structured tools for AI agents. Repl"
+ },
+ {
+  "repo": "Kikobeats/top-crawler-agents",
+  "stars": 29,
+  "pushed": "2026-10-05",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Curated list of common web crawler and bot User-Agent strings used across the internet."
+ },
+ {
+  "repo": "luminati-io/Awesome-Web-Scraping",
+  "stars": 27,
+  "pushed": "2025-04-06",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A list of libraries, tools, and APIs for web scraping and data processing. Find everything you need for extracting, mana"
+ },
+ {
+  "repo": "murrlincoln/x402-gitbook",
+  "stars": 27,
+  "pushed": "2025-10-23",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": ""
+ },
+ {
+  "repo": "mcccsm/x402-list-mcp",
+  "stars": 26,
+  "pushed": "2026-10-13",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "MCP server for x402-list.com: discover x402 payment services and on-chain-verified facilitator settlement volumes. Publi"
+ },
+ {
+  "repo": "bitrefill/awesome-agentic-payments",
+  "stars": 24,
+  "pushed": "2026-06-29",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A curated list of protocols, specs, SDKs, and tools powering the emerging agentic commerce stack."
+ },
+ {
+  "repo": "ethanniser/x402-mcp",
+  "stars": 22,
+  "pushed": "2025-12-06",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": ""
+ },
+ {
+  "repo": "mbeato/awesome-mpp",
+  "stars": 22,
+  "pushed": "2026-05-02",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "The MPP registry \u2014 100+ Machine Payments Protocol tools, SDKs, services, and payment methods across 15+ chains. The defi"
+ },
+ {
+  "repo": "sgolovine/awesome-devtools",
+  "stars": 22,
+  "pushed": "2023-09-22",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A collection of awesome devtools from around the internet"
+ },
+ {
+  "repo": "athivvat/awesome-devtools",
+  "stars": 20,
+  "pushed": "2026-01-30",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "\ud83d\ude0e Awesome lists about developer tools."
+ },
+ {
+  "repo": "ScrapeRouter/awesome-scraping",
+  "stars": 18,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "The definitive list of the latest libraries, tools, APIs and providers for web scraping. The only daily-updated collecti"
+ },
+ {
+  "repo": "tsubasakong/awesome-agent-payments-protocol",
+  "stars": 16,
+  "pushed": "2026-09-30",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "\ud83d\ude80 Curated resources for Google's Agent Payments Protocol (AP2), A2A & x402 \u2014 blogs, videos, repos & specs. Contributions"
+ },
+ {
+  "repo": "CryptoToolsDirectory/Awesome-Crypto-Tools-Directory",
+  "stars": 14,
+  "pushed": "2026-10-13",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "Discover trusted crypto tools and products for traders, investigators & builders, CEX/DEX, DeFi, wallets, explorers, OSI"
+ },
+ {
+  "repo": "Epistates/awesome-mcp-devtools",
+  "stars": 13,
+  "pushed": "2026-09-14",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A curated list of 100+ Model Context Protocol (MCP) developer tools \u2014 SDKs for 15 languages, frameworks, inspectors, tes"
+ },
+ {
+  "repo": "thirdweb-dev/x402.chat",
+  "stars": 13,
+  "pushed": "2025-12-12",
+  "archived": true,
+  "fork": false,
+  "license": null,
+  "desc": "A x402 experiment"
+ },
+ {
+  "repo": "Rail402/awesome-rail402",
+  "stars": 12,
+  "pushed": "2026-06-01",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "A curated list of APIs, SDKs, agent projects, and resources in the Rail402 ecosystem. Built on Base. Powered by x402."
+ },
+ {
+  "repo": "the-ai-entrepreneur-ai-hub/awesome-web-scraping-tools",
+  "stars": 12,
+  "pushed": "2026-08-25",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A curated list of the best web scraping tools, APIs, and services for developers. Updated 2026."
+ },
+ {
+  "repo": "timunbasah3/awesome-mcp",
+  "stars": 11,
+  "pushed": "2026-10-13",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "\ud83d\ude80 Discover and explore a curated list of MCP servers, tools, and resources for AI assistants, enhancing your development"
+ },
+ {
+  "repo": "insodimension/awesome-agent-protocols",
+  "stars": 10,
+  "pushed": "2026-09-18",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A curated list of protocols and standards for AI agents \u2014 MCP, A2A, ACP, AG-UI, AP2, x402, and 50+ more, organized by st"
+ },
+ {
+  "repo": "yeaight7/awesome-ai-devtools",
+  "stars": 10,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "The open-source map of the AI developer tooling ecosystem"
+ },
+ {
+  "repo": "rawveg/openapi-directory-mcp",
+  "stars": 9,
+  "pushed": "2025-11-04",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "An MCP Server for APIs.guru remarkable Wikipedia for Web APIs. Providing tools, prompts and resources to help eliminate "
+ },
+ {
+  "repo": "Daehan-Base/awesome-x402-on-base",
+  "stars": 7,
+  "pushed": "2026-02-28",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Korean resources and tutorials for x402 payment protocol on Base chain"
+ },
+ {
+  "repo": "nirholas/agenc-mcp",
+  "stars": 7,
+  "pushed": "2026-10-10",
+  "archived": false,
+  "fork": false,
+  "license": "Apache-2.0",
+  "desc": "The AgenC agent-to-agent coordination surface over MCP \u2014 browse the on-chain task marketplace, query the agent registry "
+ },
+ {
+  "repo": "CasualSecurityInc/xno-skills",
+  "stars": 6,
+  "pushed": "2026-10-10",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "AI agent Skill, MCP server, and CLI for transacting in the Nano (XNO) cryptocurrency. Manage wallets securely via OWS, s"
+ },
+ {
+  "repo": "mbeato/APIMesh",
+  "stars": 6,
+  "pushed": "2026-05-11",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "APIMesh \u2014 23 pay-per-call web analysis APIs + 16-tool MCP server with autonomous API generation. Security audits, SEO, t"
+ },
+ {
+  "repo": "x402nano/exact",
+  "stars": 6,
+  "pushed": "2026-09-13",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Implementation of exact scheme for fixed-amount Nano (XNO) payments over x402 protocol"
+ },
+ {
+  "repo": "Corican/nanodir",
+  "stars": 3,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "Nano Directory \u2013 an index of wallets, merchant tools, services, and developer resources built for the Nano ($XNO) crypto"
+ },
+ {
+  "repo": "X402blockchains/awesome-x402",
+  "stars": 3,
+  "pushed": "2026-09-27",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A curated starting point for x402 specifications, SDKs, explorers and builder resources."
+ },
+ {
+  "repo": "EijiAC24/awesome-agent-economy",
+  "stars": 2,
+  "pushed": "2026-02-14",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A curated list of projects, protocols, and platforms powering the AI agent economy"
+ },
+ {
+  "repo": "MysteryPanda000/awesome-agent-economy",
+  "stars": 2,
+  "pushed": "2026-07-04",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "Explore and connect projects enabling AI agents to earn, trade, verify identity, and build reputation in the agent econo"
+ },
+ {
+  "repo": "Olorinm/agent-friendly-services",
+  "stars": 2,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "A community-maintained, evidence-backed directory of service entry points for AI agents: docs, auth, MCP, OpenAPI, llms."
+ },
+ {
+  "repo": "anjar/awesome-api",
+  "stars": 2,
+  "pushed": "2024-07-02",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "Awesome API List"
+ },
+ {
+  "repo": "xpaysh/awesome-mcp-monetization",
+  "stars": 2,
+  "pushed": "2026-02-21",
+  "archived": false,
+  "fork": false,
+  "license": "NOASSERTION",
+  "desc": "A curated list of tools, protocols, platforms, and resources for monetizing MCP servers"
+ },
+ {
+  "repo": "Recall-Kitchen/awesome-x402-mcp-services",
+  "stars": 1,
+  "pushed": "2026-10-15",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Curated list of awesome (paid via x402) MCP services. No accounts required. Payments via x402 for MCP tools."
+ },
+ {
+  "repo": "fffilimonov/awesome-x402-servers",
+  "stars": 1,
+  "pushed": "2026-02-10",
+  "archived": false,
+  "fork": false,
+  "license": "MIT",
+  "desc": "Awesome Servers with x402 Payment Protocol Integration"
+ },
+ {
+  "repo": "ianwieds/awesome-agentic-commerce",
+  "stars": 1,
+  "pushed": "2026-10-16",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "Protocols, payment rails, storefront integrations and tools that let AI agents discover, buy and pay."
+ },
+ {
+  "repo": "stabloshi/awesome-402",
+  "stars": 1,
+  "pushed": "2025-10-30",
+  "archived": false,
+  "fork": false,
+  "license": "CC0-1.0",
+  "desc": "A curated list of awesome resources, libraries, tools and more implementing HTTP 402."
+ },
+ {
+  "repo": "sudzikcoin/awesome-x402",
+  "stars": 1,
+  "pushed": "2026-05-31",
+  "archived": false,
+  "fork": false,
+  "license": null,
+  "desc": "A curated list of x402 micropayment facilitators, SDKs, tools, and resources"
+ }
+]
