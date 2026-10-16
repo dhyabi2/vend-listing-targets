@@ -166,3 +166,29 @@ Total targets: 158
 | 156 | [ianwieds/awesome-agentic-commerce](https://github.com/ianwieds/awesome-agentic-commerce) | 1 | 2026-10-16 | no | CC0-1.0 | Protocols, payment rails, storefront integrations and tools that let AI agents discover, buy and pay. |
 | 157 | [stabloshi/awesome-402](https://github.com/stabloshi/awesome-402) | 1 | 2025-10-30 | no | CC0-1.0 | A curated list of awesome resources, libraries, tools and more implementing HTTP 402. |
 | 158 | [sudzikcoin/awesome-x402](https://github.com/sudzikcoin/awesome-x402) | 1 | 2026-05-31 | no | - | A curated list of x402 micropayment facilitators, SDKs, tools, and resources |
+
+## Status of already-opened PRs
+
+| Repo | PR | Endpoints advertised |
+|---|---|---|
+| xpaysh/awesome-x402 | https://github.com/xpaysh/awesome-x402/pull/1863 | browser-agent (4) |
+| Recall-Kitchen/awesome-x402-mcp-services | https://github.com/Recall-Kitchen/awesome-x402-mcp-services/pull/103 | browser-agent (4) |
+| bitrefill/awesome-agentic-payments | https://github.com/bitrefill/awesome-agentic-payments/pull/55 | browser-agent (4) |
+| steven2358/awesome-blockchain-ai | https://github.com/steven2358/awesome-blockchain-ai/pull/87 | browser-agent (4) |
+| ai-boost/awesome-a2a | https://github.com/ai-boost/awesome-a2a/pull/208 | browser-agent (4) |
+| Corican/nanodir | https://github.com/Corican/nanodir/pull/7 | browser-agent (4) |
+| mbeato/awesome-mpp | https://github.com/mbeato/awesome-mpp/pull/46 | browser-agent (4) |
+| TensorBlock/awesome-mcp-servers | https://github.com/TensorBlock/awesome-mcp-servers/pull/3932 | browser-agent (4) |
+| YuzeHao2023/Awesome-MCP-Servers | https://github.com/YuzeHao2023/Awesome-MCP-Servers/pull/654 | browser-agent (4) |
+| demcp/awesome-web3-mcp-servers | https://github.com/demcp/awesome-web3-mcp-servers/pull/138 | browser-agent (4) |
+
+## Endpoints advertised
+
+Host `https://extract.paypercall.dev`, x402 v2, Nano (XNO), no account/API key:
+
+- `GET /api/v1/browser-agent?task=&website=` — 0.05 XNO (~$0.017)
+- `GET /api/v1/browser-agent/batch?runs=` — 0.05 XNO × N
+- `GET /api/v1/browser-agent/scrape?url=&elements=` — 0.002 XNO (~$0.0007)
+- `GET /api/v1/browser-agent/scrape-batch?urls=&elements=` — 0.002 XNO × N
+
+Unpaid calls return HTTP 402 with an x402 challenge. Free: `/jobs/{id}` status + SSE events.
